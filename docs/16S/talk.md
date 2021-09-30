@@ -67,7 +67,7 @@ or `materials/treasure_chest` in the Colaboratory notebook.
 
 Pronounced like wind *chime*.
 
-Created ~2010 during the Human Microbiome Project (2007 - 2016) under the leadership
+Created ~2010 during the Human Microbiome Project (HMP) (2007 - 2016) under the leadership
 of Greg Caporaso and Rob Knight.
 
 ---
